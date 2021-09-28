@@ -15,13 +15,14 @@ git push
 I really enjoy ~~playing and~~ watching soccer.
 ***I do enjoy playing but I have not played in a while***
 **The teams I go for are:**
-- Cruz Azul
+- [Cruz Azul](cruz_azul.jpg)
 > La Novena
-- Real Madrid
+- [Real Madrid](Real_Madrid_CF.png)
 > Hala Madrid
-[Cruz Azul](cruz_azul.jpg)
-[Real Madrid](Real_Madrid_CF.png)
 
+
+![Cruz Azul](cruz_azul.jpg)
+![Real Madrid](Real_Madrid_CF.png)
 **My classes this quarter are:**
 1. CSE 101
 2. CSE 110
