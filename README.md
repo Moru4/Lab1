@@ -1,1 +1,1 @@
-# Lab1
+https://moru4.github.io/Lab1/
