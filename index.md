@@ -35,6 +35,6 @@ I really enjoy ~~playing and~~ watching soccer.
 - [ ] CSE 110 Discussion
 - [ ] MATH 103A Discussion
 
-I like Pokemon and I use [Serebii] (https://www.serebii.net) for it a lot.
+I like Pokemon and I use [Serebii](https://www.serebii.net) for it a lot.
 
-I learned how to do section links on [Github Docs] (https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#section-links).
+I learned how to do section links on [Github Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#section-links).
