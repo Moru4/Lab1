@@ -1,7 +1,7 @@
 # **Moises Ruiz**
 ### *My User Page*
 
-[A picture of me] (Lab1/selfie.PNG)
+![A picture of me] (selfie.PNG)
 
 **Some git commands I used for _this_ lab are:**
 ```
@@ -19,8 +19,8 @@ I really enjoy ~~playing and~~ watching soccer.
 > La Novena
 - Real Madrid
 > Hala Madrid
-[Cruz Azul] (Lab1/cruz_azul.jpg)
-[Real Madrid] (Lab1/Real_Madrid_CF.png)
+![Cruz Azul] (cruz_azul.jpg)
+![Real Madrid] (Real_Madrid_CF.png)
 
 **My classes this quarter are:**
 1. CSE 101
